@@ -1,6 +1,7 @@
 # Amigo Secreto App
 
-![Portada del proyecto](assets/amigo-secreto.png)
+![Portada del proyecto](<img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/353ef90e-3539-433e-b2d9-a532bf771369" />
+)
 
 Hola! Este es mi primer proyecto web. Hace parte de mi primer challenge en la clase de Principiante en Programacion de Alura Latam, con esto voy a practicar HTML, CSS, JavaScript y GitHub.  
 El challenge consiste en agregar nombres de personas y luego hacer un sorteo para elegir un "amigo secreto" de manera aleatoria.
