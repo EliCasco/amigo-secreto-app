@@ -36,5 +36,5 @@ En desarrollo y acepto ideas para mejorarlo!
 
 ## Autor
 
-Hecho por Eliana Maria Ceron Casco
+Hecho por Eliana Maria Cerón Casco
 ---
