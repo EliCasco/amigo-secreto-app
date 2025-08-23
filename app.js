@@ -11,7 +11,7 @@ function agregarAmigo() {
     }
 
     if (amigos.includes(nombre)) {
-        alert("Ese nombre ya esta en la lista.");
+        alert(`El nombre "${nombre}" ya ha sido escrito.`);        
         input.value = "";
         return;
     }
@@ -54,4 +54,5 @@ function mostrarListaAmigos() {
     const input = document.getElementById("amigo");
     input.value = "";
 }
+
 
